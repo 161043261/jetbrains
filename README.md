@@ -1,0 +1,5 @@
+# jetbrains
+
+- linux
+- macos
+- windows
